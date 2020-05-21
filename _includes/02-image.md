@@ -1,1 +1,1 @@
-https://www.bing.com/images/search?view=detailV2&ccid=oARLkrNZ&id=3B1082DB16113CC0773336F44F33D3FD7DDDEE56&thid=OIP.oARLkrNZS1md5uwcu-TeKQHaHa&mediaurl=https%3a%2f%2flookwhatmomfound.com%2fwp-content%2fuploads%2f2012%2f12%2fbaseball-hr.jpg&exph=1500&expw=1500&q=baseball+picture&simid=608025918371990071&selectedIndex=0
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
